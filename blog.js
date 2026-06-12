@@ -1,4 +1,4 @@
-let cart=[
+lksst cart=[
     {
         id:1,
         url:"img/Ha_2ffad19b-f62c-41d8-8566-4366b19599ad.webp",
